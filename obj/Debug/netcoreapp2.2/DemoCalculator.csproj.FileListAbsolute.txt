@@ -3,7 +3,6 @@
 /Users/adamstacey/Dropbox/Development/htdocs/Web Illumination/DemoCalculator/bin/Debug/netcoreapp2.2/DemoCalculator.runtimeconfig.dev.json
 /Users/adamstacey/Dropbox/Development/htdocs/Web Illumination/DemoCalculator/bin/Debug/netcoreapp2.2/DemoCalculator.dll
 /Users/adamstacey/Dropbox/Development/htdocs/Web Illumination/DemoCalculator/bin/Debug/netcoreapp2.2/DemoCalculator.pdb
-/Users/adamstacey/Dropbox/Development/htdocs/Web Illumination/DemoCalculator/obj/Debug/netcoreapp2.2/DemoCalculator.csprojAssemblyReference.cache
 /Users/adamstacey/Dropbox/Development/htdocs/Web Illumination/DemoCalculator/obj/Debug/netcoreapp2.2/DemoCalculator.csproj.CoreCompileInputs.cache
 /Users/adamstacey/Dropbox/Development/htdocs/Web Illumination/DemoCalculator/obj/Debug/netcoreapp2.2/DemoCalculator.AssemblyInfoInputs.cache
 /Users/adamstacey/Dropbox/Development/htdocs/Web Illumination/DemoCalculator/obj/Debug/netcoreapp2.2/DemoCalculator.AssemblyInfo.cs
