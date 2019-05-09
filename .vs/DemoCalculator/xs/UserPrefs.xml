@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{14EE725E-2915-4418-B0CF-3AD882881343}|Default">
+  <MonoDevelop.Ide.ItemProperties.DemoCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ServiceReference/Reference.cs" Line="12" Column="1" />
+      <File FileName="Interfaces/ICalculatorService.cs" Line="10" Column="26" />
+      <File FileName="Interfaces/ICalculatorChannel.cs" Line="10" Column="26" />
+      <File FileName="Clients/CalculatorClient.cs" Line="109" Column="2" />
+      <File FileName="Repositories/CalculatorRepository.cs" Line="45" Column="32" />
+      <File FileName="Program.cs" Line="38" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoCalculator" expanded="True">
+            <Node name="DemoCalculator" expanded="True">
+              <Node name="Clients" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="CalculatorRepository.cs" selected="True" />
+              </Node>
+              <Node name="ServiceReference" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
